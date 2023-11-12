@@ -1,4 +1,4 @@
-**Semantic Search:**
+# **Semantic Search:**
 
 Semantic search refers to a type of search technique that aims to improve the accuracy and relevance of search engine results by understanding the meaning of the words in a query and the context in which they are used. Unlike traditional keyword-based searches, which match queries to specific words or phrases, semantic search takes into account the intent and the relationship between words, providing more contextually relevant results.
 
